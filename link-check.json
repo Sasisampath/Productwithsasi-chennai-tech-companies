@@ -1,0 +1,530 @@
+[
+  {
+    "name": "ACV Auctions",
+    "kind": "careers",
+    "url": "https://www.acvauctions.com/careers-acv-india",
+    "status": 200,
+    "final": "https://www.acvauctions.com/careers-acv-india",
+    "title": "Careers | ACV India"
+  },
+  {
+    "name": "ACV Auctions",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/acv-auctions",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/acv-auctions",
+    "title": "ACV Auctions | LinkedIn"
+  },
+  {
+    "name": "TNQTech",
+    "kind": "careers",
+    "url": "https://tnqtech.com/careers/open-positions/",
+    "status": 200,
+    "final": "https://tnqtech.com/careers/open-positions/",
+    "title": "Explore all open positions | TNQTech"
+  },
+  {
+    "name": "TNQTech",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/tnqtech",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/tnqtech",
+    "title": "TNQTech | LinkedIn"
+  },
+  {
+    "name": "Deloitte",
+    "kind": "careers",
+    "url": "https://southasiacareers.deloitte.com/go/Deloitte-India/718244/",
+    "status": 200,
+    "final": "https://southasiacareers.deloitte.com/go/Deloitte-India/718244/",
+    "title": ""
+  },
+  {
+    "name": "Deloitte",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/deloitte",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/deloitte",
+    "title": "Deloitte | LinkedIn"
+  },
+  {
+    "name": "Nokia",
+    "kind": "careers",
+    "url": "https://www.nokia.com/careers/",
+    "status": 200,
+    "final": "https://www.nokia.com/careers/",
+    "title": "Careers | Nokia.com"
+  },
+  {
+    "name": "Nokia",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/nokia",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/nokia",
+    "title": "Nokia | LinkedIn"
+  },
+  {
+    "name": "adidas",
+    "kind": "careers",
+    "url": "https://careers.adidas-group.com/locations/hubs/chennai",
+    "status": 200,
+    "final": "https://careers.adidas-group.com/locations/hubs/chennai",
+    "title": "\n                adidas Careers \u2013 Through sport, we have the power to change lives. Chennai\n        "
+  },
+  {
+    "name": "adidas",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/adidas",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/adidas",
+    "title": "adidas | LinkedIn"
+  },
+  {
+    "name": "Workday",
+    "kind": "careers",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "status": 200,
+    "final": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "title": ""
+  },
+  {
+    "name": "Workday",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/workday",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/workday",
+    "title": "Workday | LinkedIn"
+  },
+  {
+    "name": "Fidelity Investments",
+    "kind": "careers",
+    "url": "https://jobs.fidelity.com/in/jobs/?location=Chennai",
+    "status": 403,
+    "final": "https://jobs.fidelity.com/in/jobs/?location=Chennai",
+    "secondary_verification": "Official careers page resolved through web browsing on 2 November 2026; original URL retained."
+  },
+  {
+    "name": "Fidelity Investments",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/fidelity-investments",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/fidelity-investments",
+    "title": "Fidelity Investments | LinkedIn"
+  },
+  {
+    "name": "KLA",
+    "kind": "careers",
+    "url": "https://kla.wd1.myworkdayjobs.com/Search",
+    "status": 200,
+    "final": "https://kla.wd1.myworkdayjobs.com/Search",
+    "title": ""
+  },
+  {
+    "name": "KLA",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/klacorp-india",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/klacorp-india",
+    "title": "KLA India | LinkedIn"
+  },
+  {
+    "name": "Clayfin",
+    "kind": "careers",
+    "url": "https://clayfin.ai/careers/",
+    "status": 200,
+    "final": "https://clayfin.ai/careers/",
+    "title": "Careers - Clayfin"
+  },
+  {
+    "name": "Clayfin",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/clayfin",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/clayfin",
+    "title": "Clayfin | LinkedIn"
+  },
+  {
+    "name": "Freshworks",
+    "kind": "careers",
+    "url": "https://www.freshworks.com/company/careers/",
+    "status": 200,
+    "final": "https://www.freshworks.com/company/careers/",
+    "title": ""
+  },
+  {
+    "name": "Freshworks",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/freshworks-inc/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/freshworks-inc/",
+    "title": "Freshworks | LinkedIn"
+  },
+  {
+    "name": "athenahealth",
+    "kind": "careers",
+    "url": "https://careers.athenahealth.com/us/en/search-results",
+    "status": 200,
+    "final": "https://careers.athenahealth.com/us/en/search-results",
+    "title": ""
+  },
+  {
+    "name": "athenahealth",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/athenahealth/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/athenahealth/",
+    "title": "athenahealth | LinkedIn"
+  },
+  {
+    "name": "Genesys",
+    "kind": "careers",
+    "url": "https://www.genesys.com/company/careers",
+    "status": 200,
+    "final": "https://www.genesys.com/company/careers",
+    "title": "Careers at Genesys | Genesys"
+  },
+  {
+    "name": "Genesys",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/genesys/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/genesys/",
+    "title": "Genesys | LinkedIn"
+  },
+  {
+    "name": "ZoomInfo",
+    "kind": "careers",
+    "url": "https://www.zoominfo.com/careers",
+    "status": 200,
+    "final": "https://www.zoominfo.com/careers",
+    "title": "ZoomInfo"
+  },
+  {
+    "name": "ZoomInfo",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/zoominfo/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/zoominfo/",
+    "title": "ZoomInfo | LinkedIn"
+  },
+  {
+    "name": "Chronus",
+    "kind": "careers",
+    "url": "https://chronus.com/about-us/careers",
+    "status": 200,
+    "final": "https://chronus.com/about-us/careers",
+    "title": "Careers at Chronus"
+  },
+  {
+    "name": "Chronus",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/chronussoftware/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/chronussoftware/",
+    "title": "Chronus | LinkedIn"
+  },
+  {
+    "name": "Atomicwork",
+    "kind": "careers",
+    "url": "https://www.atomicwork.com/company/careers",
+    "status": 200,
+    "final": "https://www.atomicwork.com/company/careers",
+    "title": "Careers at Atomicwork | Come work with us"
+  },
+  {
+    "name": "Atomicwork",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/atomicworkhq/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/atomicworkhq/",
+    "title": "Atomicwork | LinkedIn"
+  },
+  {
+    "name": "Corpay",
+    "kind": "careers",
+    "url": "https://www.corpay.com/careers",
+    "status": 200,
+    "final": "https://www.corpay.com/careers",
+    "title": "VETERANS"
+  },
+  {
+    "name": "Corpay",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/corpay/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/corpay/",
+    "title": "Corpay | LinkedIn"
+  },
+  {
+    "name": "Viasat",
+    "kind": "careers",
+    "url": "https://careers.viasat.com/chennai/",
+    "status": 200,
+    "final": "https://careers.viasat.com/chennai/",
+    "title": "Chennai | Viasat Careers"
+  },
+  {
+    "name": "Viasat",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/viasat/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/viasat/",
+    "title": "Viasat | LinkedIn"
+  },
+  {
+    "name": "Verizon",
+    "kind": "careers",
+    "url": "https://mycareer.verizon.com/jobs/?location=Chennai&pagesize=20",
+    "status": 403,
+    "final": "https://mycareer.verizon.com/jobs/?location=Chennai&pagesize=20",
+    "secondary_verification": "Official careers page resolved through web browsing on 2 November 2026; original URL retained."
+  },
+  {
+    "name": "Verizon",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/verizon/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/verizon/",
+    "title": "Verizon | LinkedIn"
+  },
+  {
+    "name": "AT&T",
+    "kind": "careers",
+    "url": "https://www.att.jobs/India/",
+    "status": 200,
+    "final": "https://www.att.jobs/India/",
+    "title": "AT&amp;T India Development Center | India Jobs | Now Hiring"
+  },
+  {
+    "name": "AT&T",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/att/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/att/",
+    "title": "AT&amp;T | LinkedIn"
+  },
+  {
+    "name": "DTCC",
+    "kind": "careers",
+    "url": "https://www.dtcc.com/about/careers",
+    "status": 200,
+    "final": "https://www.dtcc.com/about/careers",
+    "title": "Careers | DTCC"
+  },
+  {
+    "name": "DTCC",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/dtcc/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/dtcc/",
+    "title": "The Depository Trust &amp; Clearing Corporation (DTCC) | LinkedIn"
+  },
+  {
+    "name": "American Express",
+    "kind": "careers",
+    "url": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+    "status": 200,
+    "final": "https://careers.americanexpress.com/en/sites/CX_1/jobs",
+    "title": "American Express"
+  },
+  {
+    "name": "American Express",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/american-express/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/american-express/",
+    "title": "American Express | LinkedIn"
+  },
+  {
+    "name": "Standard Chartered",
+    "kind": "careers",
+    "url": "https://jobs.standardchartered.com/",
+    "status": 200,
+    "final": "https://jobs.standardchartered.com/",
+    "title": "Home Page"
+  },
+  {
+    "name": "Standard Chartered",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/standardchartered/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/standardchartered/",
+    "title": "Standard Chartered | LinkedIn"
+  },
+  {
+    "name": "HSBC",
+    "kind": "careers",
+    "url": "https://www.hsbc.com/careers/find-a-job",
+    "status": 200,
+    "final": "https://www.hsbc.com/careers/find-a-job",
+    "title": "Find a job | Careers opportunities | HSBC Holdings plc"
+  },
+  {
+    "name": "HSBC",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/hsbc/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/hsbc/",
+    "title": "HSBC | LinkedIn"
+  },
+  {
+    "name": "Siemens",
+    "kind": "careers",
+    "url": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/",
+    "status": 200,
+    "final": "https://jobs.siemens.com/en_US/externaljobs/SearchJobs/",
+    "title": ""
+  },
+  {
+    "name": "Siemens",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/siemens/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/siemens/",
+    "title": "Siemens | LinkedIn"
+  },
+  {
+    "name": "NEC India",
+    "kind": "careers",
+    "url": "https://careers.nec.com/search/?locationsearch=india",
+    "status": 200,
+    "final": "https://careers.nec.com/search/?locationsearch=india",
+    "title": "NEC Corporation Jobs"
+  },
+  {
+    "name": "NEC India",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/nec-corporation-india/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/nec-corporation-india/",
+    "title": "NEC Corporation India Pvt Ltd. | LinkedIn"
+  },
+  {
+    "name": "Tiger Analytics",
+    "kind": "careers",
+    "url": "https://www.tigeranalytics.com/about-us/current-openings/",
+    "status": 403,
+    "final": "https://www.tigeranalytics.com/about-us/current-openings/",
+    "secondary_verification": "Official careers page resolved through web browsing on 2 November 2026; original URL retained."
+  },
+  {
+    "name": "Tiger Analytics",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/tiger-analytics/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/tiger-analytics/",
+    "title": "Tiger Analytics | LinkedIn"
+  },
+  {
+    "name": "Bounteous",
+    "kind": "careers",
+    "url": "https://www.bounteous.com/careers/search-results/",
+    "status": 200,
+    "final": "https://www.bounteous.com/careers/search-results/",
+    "title": ""
+  },
+  {
+    "name": "Bounteous",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/bounteous/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/bounteous/",
+    "title": "Bounteous | LinkedIn"
+  },
+  {
+    "name": "Eviden",
+    "kind": "careers",
+    "url": "https://eviden.com/en/careers",
+    "status": 200,
+    "final": "https://eviden.com/en/careers",
+    "title": ""
+  },
+  {
+    "name": "Eviden",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/eviden/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/eviden/",
+    "title": "Eviden | LinkedIn"
+  },
+  {
+    "name": "Zalaris",
+    "kind": "careers",
+    "url": "https://jobs.zalaris.com/",
+    "status": 200,
+    "final": "https://jobs.zalaris.com/",
+    "title": "Jobs at Zalaris"
+  },
+  {
+    "name": "Zalaris",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/zalaris/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/zalaris/",
+    "title": "Zalaris | LinkedIn"
+  },
+  {
+    "name": "Worley",
+    "kind": "careers",
+    "url": "https://www.worley.com/en/careers",
+    "status": 200,
+    "final": "https://www.worley.com/en/careers",
+    "title": "Careers \u2013 Delivering Sustainable Change - Worley\n"
+  },
+  {
+    "name": "Worley",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/worley/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/worley/",
+    "title": "Worley | LinkedIn"
+  },
+  {
+    "name": "ZoomRx",
+    "kind": "careers",
+    "url": "https://job-boards.greenhouse.io/zoomrx",
+    "status": 200,
+    "final": "https://job-boards.greenhouse.io/zoomrx",
+    "title": "Jobs at ZoomRx"
+  },
+  {
+    "name": "ZoomRx",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/zoomrx/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/zoomrx/",
+    "title": "ZoomRx | LinkedIn"
+  },
+  {
+    "name": "Tredence",
+    "kind": "careers",
+    "url": "https://www.tredence.com/explore-career-in-ds-with-tredence",
+    "status": 200,
+    "final": "https://www.tredence.com/explore-career-in-ds-with-tredence",
+    "title": "\n    Tredence Careers - Tredence Analytics Solutions Company\n    "
+  },
+  {
+    "name": "Tredence",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/tredence/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/tredence/",
+    "title": "Tredence Inc. | LinkedIn"
+  },
+  {
+    "name": "ALTEN India",
+    "kind": "careers",
+    "url": "https://www.alten-india.com/careers/",
+    "status": "ERROR",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>",
+    "secondary_verification": "Official careers page resolved through web browsing on 2 November 2026; original URL retained."
+  },
+  {
+    "name": "ALTEN India",
+    "kind": "linkedin",
+    "url": "https://www.linkedin.com/company/alten-india/",
+    "status": 200,
+    "final": "https://www.linkedin.com/company/alten-india/",
+    "title": "ALTEN India | LinkedIn"
+  }
+]

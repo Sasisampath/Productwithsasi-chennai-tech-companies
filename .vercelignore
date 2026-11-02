@@ -1,0 +1,6 @@
+tests/
+README.md
+TEST_REPORT.md
+link-check.json
+.git/
+.DS_Store
